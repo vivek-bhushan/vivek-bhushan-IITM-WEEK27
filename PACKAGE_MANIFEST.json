@@ -1,0 +1,26 @@
+{
+  "project": "Week27 Graded Mini Project - Policy Assistant Agent",
+  "contents": [
+    "README.md",
+    "assets/task_2_2_graph_legend_fixed.jpg",
+    "assets/task_2_2_graph_orchestration_curved.jpg",
+    "notebook/Week27_Graded_Mini_Project.ipynb",
+    "output/evaluation_console.txt",
+    "output/evaluation_results.csv",
+    "output/evaluation_summary.json",
+    "output/pytest_console.txt",
+    "policies.jsonl",
+    "policy_assistant/__init__.py",
+    "policy_assistant/agent.py",
+    "policy_assistant/critic.py",
+    "policy_assistant/graph.py",
+    "policy_assistant/memory.py",
+    "policy_assistant/prompts.py",
+    "policy_assistant/tools.py",
+    "report/Week27_Graded_Mini_Project.pdf",
+    "requirements.txt",
+    "run_evaluation.py",
+    "tests/conftest.py",
+    "tests/test_project.py"
+  ]
+}
