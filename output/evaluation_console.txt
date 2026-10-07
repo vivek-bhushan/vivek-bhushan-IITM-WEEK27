@@ -1,0 +1,15 @@
+Q1: latency=1.485 ms | steps=3 | has_docid=True | pass=True
+Q2: latency=1.037 ms | steps=3 | has_docid=True | pass=True
+Q3: latency=0.917 ms | steps=3 | has_docid=True | pass=True
+Q4: latency=0.917 ms | steps=3 | has_docid=True | pass=True
+Q5: latency=0.828 ms | steps=2 | has_docid=True | pass=True
+Q6: latency=0.870 ms | steps=3 | has_docid=True | pass=True
+Q7: latency=0.920 ms | steps=3 | has_docid=True | pass=True
+Q8: latency=0.862 ms | steps=3 | has_docid=True | pass=True
+Q9: latency=0.920 ms | steps=3 | has_docid=True | pass=True
+{
+  "questions": 9,
+  "passed": 9,
+  "pass_rate": 1.0,
+  "average_latency_ms": 0.9728888888888889
+}
